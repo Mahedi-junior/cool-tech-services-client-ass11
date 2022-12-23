@@ -10,7 +10,7 @@ const Header = () => {
       expand="lg"
       bg=""
       variant="white"
-      className="fixed-top transparent shadow-lg bg-warning"
+      className=" transparent shadow-lg bg-warning"
     >
       <Container>
         <Navbar.Brand href="#home">
