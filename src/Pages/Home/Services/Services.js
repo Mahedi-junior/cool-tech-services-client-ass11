@@ -25,7 +25,7 @@ const Services = () => {
         {/* .slice(0, 3) */}
         <h2>Services: {services.length}</h2>
 
-        <Row xs={1} md={3} className="g-4">
+        <Row xs={1} md={2} lg={3} className="g-4">
           {services.map((service) => (
             <ServiceCard key={service._id} service={service}></ServiceCard>
           ))}
