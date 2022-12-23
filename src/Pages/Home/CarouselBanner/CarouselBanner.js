@@ -12,7 +12,7 @@ const CarouselBanner = () => {
           <img className="d-block w-100 " src={banner1} alt="First slide" />
         </div>
         <div class="carousel-caption m-0 text-xl-start d-flex flex-column  justify-content-center  h-100">
-          <h1>
+          <h1 className="mt-5">
             We're AC or Heating <br />
             Maintenance & Repaire...
           </h1>
@@ -29,7 +29,7 @@ const CarouselBanner = () => {
           <img className="d-block w-100 " src={banner2} alt="Second slide" />
         </div>
         <div class="carousel-caption m-0 text-xl-start d-flex flex-column  justify-content-center  h-100">
-          <h1>
+          <h1 className="mt-5">
             We're AC or Heating <br />
             Maintenance & Repaire...
           </h1>
@@ -46,7 +46,7 @@ const CarouselBanner = () => {
           <img className="d-block w-100 " src={banner3} alt="Third slide" />
         </div>
         <div class="carousel-caption m-0 text-xl-start d-flex flex-column  justify-content-center  h-100">
-          <h1>
+          <h1 className="mt-5">
             We're AC or Heating <br />
             Maintenance & Repaire...
           </h1>
