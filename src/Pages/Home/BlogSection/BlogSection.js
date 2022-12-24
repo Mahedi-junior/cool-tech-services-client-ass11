@@ -19,7 +19,7 @@ const BlogSection = () => {
         </p>
       </div>
 
-      <Row xs={1} md={2} lg={3} className="g-4">
+      <Row xs={1} md={2} lg={3} className="g-4 mb-5">
         <Col className="shadow-sm">
           <Card>
             <Card.Img variant="top" src={blog1} />
