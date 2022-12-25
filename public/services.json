@@ -1,41 +1,35 @@
 [
   {
-    "_id": "01",
     "title": "HVAC Design Installation",
     "img": "https://surielementor.com/loazznekit/wp-content/uploads/2020/11/services-3QUT76L.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
     "price": "20.00"
   },
   {
-    "_id": "02",
     "title": "Cooling Services",
     "img": "https://loazzne-gatsby.vercel.app/static/service-2-b5c7a06b949c97c40bac55a9b4bf9bf9.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
     "price": "20.00"
   },
   {
-    "_id": "03",
     "title": "Heating Services",
     "img": "https://surielementor.com/loazznekit/wp-content/uploads/2020/11/services-PYQKT3M.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
     "price": "20.00"
   },
   {
-    "_id": "04",
     "title": "Home Air Quality Testing",
     "img": "https://loazzne-gatsby.vercel.app/static/service-3-c3d8bc4c93420dc0c45735d330b4ecc4.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
     "price": "20.00"
   },
   {
-    "_id": "05",
     "title": "Advice Consultation",
     "img": "https://surielementor.com/loazznekit/wp-content/uploads/2020/11/services-FFX7DRY.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
     "price": "20.00"
   },
   {
-    "_id": "06",
     "title": "Indoor Air Quality Testing",
     "img": "https://loazzne-gatsby.vercel.app/static/service-1-52f4367ea5ee0073710213496e3d36b1.jpg",
     "description": "The first step in selecting a HVAC system is to determine and document constraints dictated by performance, capacity, available space, budgets and any other factors important to the project.",
