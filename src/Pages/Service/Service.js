@@ -6,8 +6,8 @@ import { useLoaderData } from "react-router-dom";
 const Service = () => {
   const { _id, price, title, description, img } = useLoaderData();
   return (
-    <div className="container">
-      <h1>Services id: {_id}</h1>
+    <div className="container mt-5">
+      <h4>Services id: {_id}</h4>
       <Row xs={1} md={2} className="g-4">
         <Col>
           <Card>
