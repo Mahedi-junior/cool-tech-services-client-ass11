@@ -24,9 +24,15 @@ const Header = () => {
           <Nav className="ms-auto text-white fs-4">
             <Link
               to="/allServices"
-              className="text-dark fw-semibold text-decoration-none"
+              className="text-light px-2 fw-semibold text-decoration-none"
             >
               Services
+            </Link>
+            <Link
+              to="/login"
+              className="text-light px-2 fw-semibold text-decoration-none"
+            >
+              Login
             </Link>
           </Nav>
           <Nav>
