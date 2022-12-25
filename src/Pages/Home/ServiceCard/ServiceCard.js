@@ -34,7 +34,7 @@ const ServiceCard = ({ service }) => {
                 </span>
               </p>
               <div className="text-">
-                <Link to={`/checkout/${_id}`}>
+                <Link to={`/service/${_id}`}>
                   <button className="btn btn-outline-warning btn-lg w-75 ">
                     View Details.. <FaArrowRight className="ms-2" />{" "}
                     <FaArrowRight />

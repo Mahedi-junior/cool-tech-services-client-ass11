@@ -1,0 +1,11 @@
+footer {
+  color: rgb(0, 0, 0);
+  height: 300px;
+  font-weight: 600;
+  background: rgb(242, 166, 24);
+}
+footer p:hover {
+  color: rgb(247, 247, 247);
+  text-decoration: underline;
+  cursor: pointer;
+}
